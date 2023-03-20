@@ -1,4 +1,4 @@
-#Laundry Mangement system
+#Laundry Management system
 
 This project is aimed at developing a desktop based application named Inventory Management 
 System for managing the inventory system of the New Building at Department of Industrial 
