@@ -10,6 +10,30 @@ application which has admin component to manage the inventory and maintenance of
 inventory system. 
 
 
+Instructions to use the software
+
+Figure 1 displays the login page which is created in order to protect the management of the 
+inventory of the department in order to prevent it from the threads and misuse of the inventory. 
+As software starts the login page appears. Admin login is determined by the username and 
+password that has all the authority to add, view, update and remove the items in the inventory 
+as per the requirement. By entering username as “ admin@gmail.com “ and the password as 
+“admin1 “, admin can log in to the system. In here we also provide options to clear user name 
+and password if when they make mistakes when typing those things and also if admin forgot the 
+password there is an option to make new password to the system. In addition, there is an exit 
+option too, when admin want to quit the software.
+
+
+Required tools for the development of the system
+• Apache NetBeans IDE 12.5
+• MySQL Workbench 8.0 CE
+
+Project Limitation
+• allowed only Single admin to use.
+
+User Interface
+To create the user interface in Java NetBeans we use jButton, jLabels, jPanel, jTextBox and 
+jFrames
+
 ![image](https://user-images.githubusercontent.com/95086766/226364046-d672fd8c-4927-4533-a27b-6a6786612f91.png)
 ![image](https://user-images.githubusercontent.com/95086766/226364230-01972a28-a9f2-4e5c-8497-5410fb82e168.png)
 ![image](https://user-images.githubusercontent.com/95086766/226364301-7bed2611-3e69-4774-8036-ad0daf6dc944.png)
