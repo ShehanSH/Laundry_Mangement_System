@@ -9,5 +9,5 @@ the existing inventory and remove items from the inventory. It is a small window
 application which has admin component to manage the inventory and maintenance of the 
 inventory system. 
 
-https://github.com/ShehanSH/Laundry_Mangement_System/issues/1#issue-1632167299
+
 
